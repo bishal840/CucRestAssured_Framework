@@ -27,7 +27,7 @@ Body:
     "language": "French-IN"
 }
 HTTP/1.1 200 OK
-Date: Tue, 28 Mar 2023 04:45:15 GMT
+Date: Tue, 28 Mar 2023 07:46:43 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,17 +40,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "1815f688d89b79d19f930358a6d42776",
+    "place_id": "bc68f9df81d06ab2bed0abff31d5ab91",
     "scope": "APP",
-    "reference": "4fa7787f627c9b5a1c71b18cd054c2a34fa7787f627c9b5a1c71b18cd054c2a3",
-    "id": "4fa7787f627c9b5a1c71b18cd054c2a3"
+    "reference": "eaf3a5a4a9c6b4805af2293a1c64bc44eaf3a5a4a9c6b4805af2293a1c64bc44",
+    "id": "eaf3a5a4a9c6b4805af2293a1c64bc44"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=1815f688d89b79d19f930358a6d42776
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=bc68f9df81d06ab2bed0abff31d5ab91
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=1815f688d89b79d19f930358a6d42776
+				place_id=bc68f9df81d06ab2bed0abff31d5ab91
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -59,7 +59,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 28 Mar 2023 04:45:16 GMT
+Date: Tue, 28 Mar 2023 07:46:44 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -96,10 +96,10 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "1815f688d89b79d19f930358a6d42776"
+    "place_id": "bc68f9df81d06ab2bed0abff31d5ab91"
 }
 HTTP/1.1 200 OK
-Date: Tue, 28 Mar 2023 04:45:17 GMT
+Date: Tue, 28 Mar 2023 07:46:45 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -127,7 +127,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 404 Not Found
-Date: Tue, 28 Mar 2023 04:45:18 GMT
+Date: Tue, 28 Mar 2023 07:46:46 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -170,7 +170,7 @@ Body:
     "language": "French-IN"
 }
 HTTP/1.1 200 OK
-Date: Tue, 28 Mar 2023 04:45:18 GMT
+Date: Tue, 28 Mar 2023 07:46:46 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -183,17 +183,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "4fcf584f8989cebc4dd095690deab025",
+    "place_id": "a05af41078feb5fee9b7b7ba630dabc1",
     "scope": "APP",
-    "reference": "3ba74bbb2a72a581a529331996c185433ba74bbb2a72a581a529331996c18543",
-    "id": "3ba74bbb2a72a581a529331996c18543"
+    "reference": "0cf82ef3f8fed20fe8c7e17faad6bd330cf82ef3f8fed20fe8c7e17faad6bd33",
+    "id": "0cf82ef3f8fed20fe8c7e17faad6bd33"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=4fcf584f8989cebc4dd095690deab025
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=a05af41078feb5fee9b7b7ba630dabc1
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=4fcf584f8989cebc4dd095690deab025
+				place_id=a05af41078feb5fee9b7b7ba630dabc1
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -202,7 +202,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 28 Mar 2023 04:45:19 GMT
+Date: Tue, 28 Mar 2023 07:46:47 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -239,10 +239,10 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "4fcf584f8989cebc4dd095690deab025"
+    "place_id": "a05af41078feb5fee9b7b7ba630dabc1"
 }
 HTTP/1.1 200 OK
-Date: Tue, 28 Mar 2023 04:45:19 GMT
+Date: Tue, 28 Mar 2023 07:46:47 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -270,7 +270,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 404 Not Found
-Date: Tue, 28 Mar 2023 04:45:20 GMT
+Date: Tue, 28 Mar 2023 07:46:48 GMT
 Server: Apache/2.4.41 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
